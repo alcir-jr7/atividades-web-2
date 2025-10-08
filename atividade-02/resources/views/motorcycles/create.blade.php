@@ -40,6 +40,10 @@
             <input type="checkbox" id="has_abs" name="has_abs" value="1">
         </div>
 
+        <a href="{{ route('motorcycles.index') }}">
+                <button type="button">Voltar</button>
+        </a>
+
         <button type="submit">Save</button>
     </form>
 </body>

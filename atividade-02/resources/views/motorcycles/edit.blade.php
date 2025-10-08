@@ -44,6 +44,10 @@
             <input type="checkbox" id="has_abs" name="has_abs" @if($motorcycle->has_abs) checked @endif>
         </div>
 
+        <a href="{{ route('motorcycles.index') }}">
+                <button type="button">Voltar</button>
+        </a>
+        
         <button type="submit">
             Salvar
         </button>
