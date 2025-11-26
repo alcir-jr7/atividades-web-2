@@ -1,9 +1,9 @@
-Atividades de Desenvolvimento Web II
+📘 Atividades de Desenvolvimento Web II
 
 Este repositório foi criado para armazenar todas as atividades desenvolvidas na disciplina de Desenvolvimento Web II. 
 
 
-* Tecnologias Utilizadas
+✨ Tecnologias Utilizadas
 
 * Laravel — Framework principal do backend
 
@@ -16,7 +16,7 @@ Este repositório foi criado para armazenar todas as atividades desenvolvidas na
 * Blade — Template engine nativa do Laravel
 
 
-Como Executar o Projeto
+🚀 Como Executar o Projeto
 
 Clone este repositório:
 
