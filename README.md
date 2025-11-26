@@ -18,7 +18,7 @@ Este repositório foi criado para armazenar todas as atividades desenvolvidas na
 
 🚀 Como Executar o Projeto
 
-Clone este repositório:
+1 - Clone este repositório:
 
 ```bash
 
@@ -26,7 +26,7 @@ git clone url-do-repositorio
 ```
 
 
-Configure o arquivo .env:
+2 - Configure o arquivo .env:
 
 ```bash
 
@@ -34,10 +34,10 @@ cp .env.example .env
 ```
 
 
-Abra o arquivo **.env** e configure a conexão com o seu banco de dados
+3 - Abra o arquivo **.env** e configure a conexão com o seu banco de dados
 
 
-Instale as dependências:
+4 - Instale as dependências:
 ```bash
 
 composer install
@@ -47,21 +47,21 @@ composer install
 npm install
 ```
 
-Execute as migrations para montar o banco de dados:
+5 - Execute as migrations para montar o banco de dados:
 ```bash
 
 php artisan migrate
 ```
 
 
-Gere a chave da aplicação:
+6 - Gere a chave da aplicação:
 ```bash
 
 php artisan key:generate
 ```
 
 
-Criar link simbólico para imagens
+7 - Criar link simbólico para imagens
 Caso o projeto contenha uploads de imagens, é necessário criar o link:
 ```bash
 
@@ -69,7 +69,7 @@ php artisan storage:link
 ```
 
 
-Execute o servidor:
+8 - Execute o servidor:
 ```bash
 
 composer run dev
