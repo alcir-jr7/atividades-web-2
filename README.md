@@ -3,7 +3,7 @@ Atividades de Desenvolvimento Web II
 Este repositório foi criado para armazenar todas as atividades desenvolvidas na disciplina de Desenvolvimento Web II. 
 
 
-Tecnologias Utilizadas
+* Tecnologias Utilizadas
 
 * Laravel — Framework principal do backend
 
