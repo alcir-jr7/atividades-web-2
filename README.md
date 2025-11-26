@@ -48,9 +48,11 @@ Instale as dependências:
 ```bash
 
 composer install
+```
+```bash
+
 npm install
 ```
-
 
 Execute as migrations para montar o banco de dados:
 ```bash
