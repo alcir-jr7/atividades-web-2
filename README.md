@@ -34,14 +34,7 @@ cp .env.example .env
 ```
 
 
-Abra o arquivo **.env** e configure a conexão com o seu banco de dados:
-
-DB_CONNECTION=mysql           # Altere para o seu banco (mysql, sqlite)
-DB_HOST=127.0.0.1
-DB_PORT=3306                  # Altere para a porta do seu banco
-DB_DATABASE=atividade_07      
-DB_USERNAME=root              # Altere para o usuário do seu banco
-DB_PASSWORD=Root@1234         # Altere para a senha do seu banco
+Abra o arquivo **.env** e configure a conexão com o seu banco de dados
 
 
 Instale as dependências:
